@@ -5,7 +5,7 @@
 * Re for regular expression.
 * Tweepy for extracting tweets from Twitter API.
 
-** Problem Statement **: Build a Sentiment Analyzer Engine which finds out the sentiment of any given text.
+**Problem Statement**: Build a Sentiment Analyzer Engine which finds out the sentiment of any given text.
 
 Sentiment analysis is a Natural Language Processing technique used to determine whether data is positive, negative, or neutral. Often performed on textual data. It basically studies the subjective information in an expression, i.e. opinions, emotions, appraisals, or attitudes toward a topic, person, or entity. It is extremely useful in social media monitoring as it allows us to gain an overview of the wider public opinion behind certain topics. 
 
