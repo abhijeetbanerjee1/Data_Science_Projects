@@ -1,16 +1,16 @@
-Libraries:
-Pandas for data frame manipulation.
-Matplotlib for data visualization.
-Nltk and textblob for text analysis.
-Re for regular expression.
-Tweepy for extracting tweets from Twitter API.
+### Libraries:
+* Pandas for data frame manipulation.
+* Matplotlib for data visualization.
+* Nltk and textblob for text analysis.
+* Re for regular expression.
+* Tweepy for extracting tweets from Twitter API.
 
-Problem Statement: Build a Sentiment Analyzer Engine which finds out the sentiment of any given text.
+** Problem Statement **: Build a Sentiment Analyzer Engine which finds out the sentiment of any given text.
 
 Sentiment analysis is a Natural Language Processing technique used to determine whether data is positive, negative, or neutral. Often performed on textual data. It basically studies the subjective information in an expression, i.e. opinions, emotions, appraisals, or attitudes toward a topic, person, or entity. It is extremely useful in social media monitoring as it allows us to gain an overview of the wider public opinion behind certain topics. 
 
-Dataset: 
-The data in this project are tweets from Twitter API which are only in the English language and retweets are filtered out to avoid the extraction of duplicate tweets.
+### Dataset: 
+*The data in this project are tweets from Twitter API which are only in the English language and retweets are filtered out to avoid the extraction of duplicate tweets.
 To scrape tweets from the Twitter API:
 Create a Twitter Developer Account: Visit the Twitter Developer Platform (https://developer.twitter.com/en) and sign up for a developer account. Once your account is approved, you'll be able to create an application and obtain the necessary API credentials.
 Create a Twitter Application: After logging in to the Twitter Developer Platform, create a new application. Provide the required information about your project, such as the name, description, and purpose. Once your application is created, you'll be able to generate API keys and access tokens.
