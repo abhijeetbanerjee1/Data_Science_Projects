@@ -1,0 +1,301 @@
+sentence	label_name	label_ID	Language	GNumber
+"""Immigrants in the United States contribute $2 trillion to the economy each year, according to a new report from the National Immigration Forum."""	Economics	1.0	en	G01349260
+"""Denying marriage equality to same-sex couples would cost the U.S. economy nearly $3.8 billion, according to a study released Monday by the Williams Institute at UCLA School of Law."""	Economics	1.0	en	G01349260
+"""Immigrants make up 17 percent of the U.S. labor force, but contribute 18 percent of the country's GDP, according to a report by the Migration Policy Institute."""	Economics	1.0	en	G01349260
+"""Allowing same-sex couples to marry would have a positive impact on the economy, according to a study released by the U.S. Chamber of Commerce."""	Economics	1.0	en	G01349260
+"""Immigrants pay billions of dollars in taxes and contribute billions of dollars to the economy, according to a report by the Institute on Taxation and Economic Policy."""	Economics	1.0	en	G01349260
+"""The UK's economy could lose up to £7 billion annually due to post-Brexit immigration policies, according to a report by Oxford Economics."""	Economics	1.0	En	G01349260
+"""In the U.S., same-sex couples who are legally married are estimated to have added $3.8 billion to the economy in the two years following the Supreme Court’s landmark 2015 ruling, according to a study by the Williams Institute."""	Economics	1.0	en	G01349260
+"""Immigrants have been found to contribute more in taxes than they receive in benefits in both the US and the UK, according to separate studies by the National Academies of Sciences and the University College London."""	Economics	1.0	en	G01349260
+"""Research shows that undocumented immigrants contribute billions of dollars to the US economy each year through payroll and sales taxes, consumer spending, and entrepreneurship.”"	Economics	1.0	en	G01349260
+"""A 2019 report by the National Foundation for American Policy found that immigrants founded more than half of US startups valued at $1 billion or more, highlighting their significant contribution to the country's economy.”"	Economics	1.0	en	G01349260
+"""The influx of refugees and immigrants in Europe has put a strain on housing and social services in some countries, leading to tensions and debates over immigration policies and cultural integration.”"	Capacity and resources	2.0	en	G01349260
+"""The Trump administration's policy of separating families at the border has been criticized for its harmful impact on children's mental health and well-being, as well as for its violation of human rights and international law.”"	Capacity and resources	2.0	en	G01349260
+"""Legal recognition of same-sex marriage has been shown to have positive effects on the mental health and well-being of LGBT individuals, as well as on the social attitudes and perceptions of the wider community towards LGBT rights."""	Capacity and resources	2.0	en	G01349260
+"""The UK government's hostile environment policy, which aimed to make it difficult for undocumented immigrants to access essential services such as healthcare and housing, has been criticized for exacerbating inequalities and discrimination against ethnic minority groups.”"	Capacity and resources	2.0	en	G01349260
+"""Immigrants have made significant contributions to the cultural and economic fabric of many countries, including the US, where immigrants have founded some of the country's most successful companies and have been integral to the development of its diverse cultural landscape.”"	Capacity and resources	2.0	en	G01349260
+"""The US immigration system is facing a backlog of more than 1.2 million cases, resulting in long wait times and delays for individuals seeking visas, according to data from the Transactional Records Access Clearinghouse at Syracuse University.”"	Capacity and resources	2.0	en	G01349260
+"""The UK's immigration system may struggle to cope with the demands of a post-Brexit economy due to shortages of immigration officers and resources, according to a report by the Institute for Government.”"	Capacity and resources	2.0	en	G01349260
+"""Many US states are experiencing a shortage of healthcare workers, including doctors and nurses, which could be worsened by a reduction in immigration levels, according to a report by the Migration Policy Institute.”"	Capacity and resources	2.0	en	G01349260
+"""Canada's aging population and low birth rate are leading to a shortage of workers in key industries, making immigration an important source of talent and labor, according to a report by the Conference Board of Canada.”"	Capacity and resources	2.0	en	G01349260
+"""The lack of legal protections for same-sex couples in many countries can lead to challenges in accessing healthcare, inheritance rights, and other essential services, according to a report by the World Health Organization.”"	Capacity and resources	2.0	en	G01349260
+"""The Catholic Church's stance on same-sex marriage has been a topic of debate and controversy, with some advocates for LGBT rights calling for a more inclusive and accepting approach, while others argue that same-sex marriage goes against traditional Catholic teachings.”"	Morality	3.0	en	G01349260
+"""Many religious groups, including evangelical Christians and conservative Muslims, oppose same-sex marriage on the basis of religious and moral beliefs, while others argue that denying same-sex couples the right to marry is a form of discrimination and a violation of human rights.”"	Morality	3.0	en	G01349260
+"""The US government's policy of separating families at the border has been condemned by many religious leaders and organizations as a violation of human dignity and a betrayal of Christian values of compassion and empathy."""	Morality	3.0	en	G01349260
+"""The UK government's 'right to rent' policy, which requires landlords to check the immigration status of tenants, has been criticized for discriminating against ethnic minority groups and for encouraging xenophobia and racism.”"	Morality	3.0	en	G01349260
+"""The ethical implications of immigration policies, such as family separation and the deportation of undocumented immigrants, have been debated by policymakers, legal experts, and human rights advocates, with some arguing that such policies violate fundamental human rights and moral principles.”"	Morality	3.0	en	G01349260
+"""The debate over immigration policy often raises ethical questions about the responsibilities of wealthy nations to provide aid and assistance to refugees and migrants, particularly those who are fleeing from war, persecution, or poverty.”"	Morality	3.0	en	G01349260
+"""Some religious leaders and organizations have voiced support for immigrant rights, citing the moral obligation to welcome the stranger and to treat all individuals with dignity and respect.”"	Morality	3.0	en	G01349260
+"""Opponents of same-sex marriage argue that it goes against traditional family values and moral principles, and that legal recognition of same-sex relationships will lead to the erosion of religious freedom and moral standards.”"	Morality	3.0	en	G01349260
+"""The ethical implications of denying asylum to refugees and migrants have been widely debated, with some arguing that it is a violation of human rights and a betrayal of moral principles, while others argue that it is necessary to protect national security and sovereignty.”"	Morality	3.0	en	G01349260
+"""The morality of immigration policies is often framed in terms of justice and fairness, with advocates calling for policies that are guided by principles of human dignity, equality, and respect for human rights.”"	Morality	3.0	en	G01349260
+"""Proponents of same-sex marriage argue that denying same-sex couples the right to marry is a form of discrimination and a violation of basic human rights and equality.”"	Fairness and equality	4.0	en	G01349260
+"""Immigrant rights advocates argue that current immigration policies are unfair and unequal, disproportionately affecting people of color and low-income communities.”"	Fairness and equality	4.0	en	G01349260
+"""The issue of same-sex marriage is often framed in terms of fairness and equal treatment under the law, with advocates calling for legal recognition of same-sex relationships and the same rights and benefits afforded to opposite-sex couples.”"	Fairness and equality	4.0	en	G01349260
+"""Immigrant communities have long faced systemic inequality and discrimination, with limited access to education, healthcare, and job opportunities.”"	Fairness and equality	4.0	en	G01349260
+"""The unequal distribution of resources and opportunities among immigrant and native-born populations has been widely documented, with immigrant communities often facing greater economic and social challenges.”"	Fairness and equality	4.0	en	G01349260
+"""Critics of current immigration policies argue that they unfairly prioritize highly skilled and wealthy immigrants, while neglecting the needs and rights of low-skilled and undocumented immigrants.”"	Fairness and equality	4.0	en	G01349260
+"""The issue of same-sex marriage is often framed as a matter of basic human rights and fairness, with advocates calling for equal treatment and legal recognition of same-sex relationships.”"	Fairness and equality	4.0	en	G01349260
+"""Immigration policies that target and criminalize immigrants based on their race, religion, or national origin are not only unfair and unjust, but also erode the values of equality and justice upon which our society is built.”"	Fairness and equality	4.0	en	G01349260
+"""The unequal distribution of resources and opportunities among immigrant communities is often exacerbated by policies that restrict access to education, healthcare, and other essential services.”"	Fairness and equality	4.0	en	G01349260
+"""Opponents of same-sex marriage often argue that it undermines traditional values and family structures, but in reality, denying same-sex couples the right to marry is a form of discrimination that perpetuates inequality and denies basic human rights.”"	Fairness and equality	4.0	en	G01349260
+"""The issue of same-sex marriage has been the subject of legal battles for years, with opponents arguing that it is not constitutionally protected and that it is up to states to determine marriage laws."""	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""Immigration policies and practices are subject to legal and constitutional scrutiny, with many advocates arguing that current policies violate due process and equal protection rights.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""The legality of same-sex marriage has been the subject of landmark court cases, with the Supreme Court ultimately ruling in favor of marriage equality in 2015.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""Immigrants and their advocates often use the legal system to challenge unfair and discriminatory policies, asserting their constitutional and human rights to due process, equal protection, and freedom from discrimination.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""The legal framework surrounding same-sex marriage has evolved significantly in recent years, with many states legalizing it and courts recognizing it as a constitutionally protected right.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""The constitutionality of certain immigration policies and executive orders has been the subject of intense legal debate and court challenges, with many arguing that they violate the separation of powers and other constitutional protections.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""The issue of same-sex marriage has raised questions about the role of government in regulating personal relationships and determining the legal rights and obligations of couples.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""Legal battles over immigration policies and practices have highlighted the tension between federal and state authority, with some states and localities adopting more welcoming policies and others seeking to restrict immigrant rights and access to services.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""The legality of same-sex marriage has been influenced by a range of legal and political factors, including court rulings, state laws, and public opinion.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""Immigration laws and policies are shaped by a complex web of legal and regulatory frameworks, including international law, federal statutes and regulations, and court decisions.”"	"Legality, constitutionality and jurisprudence"	5.0	en	G01349260
+"""Policy prescriptions for immigration reform often include measures to provide a pathway to citizenship for undocumented immigrants, increase border security, and reform guest worker programs.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""To address the disparities and discrimination faced by LGBTQ+ individuals and same-sex couples, policy prescriptions often include measures to expand legal protections and access to services, and promote public education and awareness.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""Policy evaluations of immigration enforcement and detention often highlight the high financial and human costs of current practices, and recommend alternatives that prioritize community safety and due process rights.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""To ensure fair and equitable treatment of immigrants and their families, policy prescriptions often focus on increasing access to healthcare, education, and economic opportunities, as well as providing legal protections and support services.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""Policy evaluations of same-sex marriage laws and policies often highlight the positive economic and social benefits of legalizing same-sex marriage, including increased economic growth, improved health outcomes, and reduced discrimination and stigma.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""Policy prescriptions for addressing the challenges faced by LGBTQ+ immigrants often include measures to reform the immigration system to protect their rights, reduce barriers to obtaining legal status, and increase access to services and resources.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""Policy evaluations of current immigration policies and practices often highlight the need for comprehensive reform that addresses the root causes of migration, provides a pathway to citizenship for undocumented immigrants, and ensures due process and fair treatment for all."""	Policy prescription and evaluation	6.0	en	G01349260
+"""To address the health disparities and barriers to care faced by LGBTQ+ individuals, policy prescriptions often include measures to expand healthcare coverage, increase funding for research and treatment, and promote inclusive policies and practices in healthcare settings.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""Policy evaluations of immigration detention and enforcement often highlight the inhumane conditions and due process violations that occur in detention centers, and recommend alternatives that prioritize community safety and due process rights.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""To address the economic challenges faced by immigrants and their families, policy prescriptions often focus on providing access to education and training programs, improving job opportunities and working conditions, and expanding social safety net programs.”"	Policy prescription and evaluation	6.0	en	G01349260
+"""The criminalization of immigration enforcement has had a devastating impact on immigrant families, with many forced to live in the shadows and facing constant fear of deportation."""	Crime and punishment	7.0	en	G01349260
+"""The criminalization of same-sex relationships has been used to justify violence and discrimination against LGBTQ+ people for far too long."""	Crime and punishment	7.0	en	G01349260
+"""The Trump administration's aggressive immigration enforcement policies have resulted in widespread human rights abuses, including family separation, indefinite detention, and even deaths in custody."""	Crime and punishment	7.0	en	G01349260
+"""The legalization of same-sex marriage has been a major step forward for LGBTQ+ rights, but there is still work to be done to ensure that all people are treated equally under the law."""	Crime and punishment	7.0	en	G01349260
+"""The criminalization of immigration is a harmful and ineffective policy that undermines the values of fairness and justice that are essential to our democracy."""	Crime and punishment	7.0	en	G01349260
+"""The Supreme Court's decision to strike down DOMA was a landmark victory for marriage equality, but it is important to remember that there is still work to be done to ensure that all couples are treated equally under the law.”"	Crime and punishment	7.0	en	G01349260
+"""The use of criminal penalties to enforce immigration laws has created a system of mass incarceration that disproportionately affects people of color and undermines the basic principles of due process and fairness.”"	Crime and punishment	7.0	en	G01349260
+"""The criminalization of same-sex relationships is a violation of basic human rights and dignity, and must be challenged at every turn.”"	Crime and punishment	7.0	en	G01349260
+"""The Trump administration's relentless attacks on immigrant communities have created a climate of fear and uncertainty, with devastating consequences for millions of people across the country.”"	Crime and punishment	7.0	en	G01349260
+"""The legalization of same-sex marriage was a historic victory for love and equality, but we must continue to fight for the full recognition and protection of LGBTQ+ rights under the law.”"	Crime and punishment	7.0	en	G01349260
+"""Illegal immigration poses a significant threat to our national security and puts our citizens at risk.”"	Security and defence	8.0	en	G01349260
+"""The influx of refugees has put a strain on our national security and resources.”"	Security and defence	8.0	en	G01349260
+"""Allowing same-sex marriage undermines traditional family values and poses a threat to our society.”"	Security and defence	8.0	en	G01349260
+"""The rise of illegal immigration is a threat to our economy and the welfare of our citizens.”"	Security and defence	8.0	en	G01349260
+"""Allowing same-sex couples to adopt children puts the well-being of children at risk.”"	Security and defence	8.0	en	G01349260
+"""Uncontrolled immigration is a threat to our way of life and our national security.”"	Security and defence	8.0	en	G01349260
+"""Same-sex marriage threatens religious freedom and undermines the sanctity of marriage.”"	Security and defence	8.0	en	G01349260
+"""The influx of immigrants is overwhelming our healthcare system and jeopardizing the health of our citizens.”"	Security and defence	8.0	en	G01349260
+"""Allowing same-sex couples to marry goes against the natural order and is a threat to the stability of society."""	Security and defence	8.0	en	G01349260
+"""Illegal immigration is a security threat that allows criminals and terrorists to enter our country undetected."""	Security and defence	8.0	en	G01349260
+"""Immigrants in ICE custody are being denied access to basic healthcare, putting their lives at risk.”"	Health and safety	9.0	en	G01349260
+"""LGBTQ+ asylum seekers face unique health challenges due to discrimination and lack of access to healthcare.”"	Health and safety	9.0	en	G01349260
+"""The Trump administration's immigration policies are endangering public safety by discouraging immigrant victims and witnesses from reporting crimes.”"	Health and safety	9.0	en	G01349260
+"""The lack of safe and affordable housing options for immigrant communities is contributing to poor health outcomes.”"	Health and safety	9.0	en	G01349260
+"""Anti-LGBTQ+ laws in some countries are contributing to a public health crisis by preventing people from accessing essential healthcare services.”"	Health and safety	9.0	en	G01349260
+"""Immigrant workers are at higher risk of workplace injuries and illnesses due to poor working conditions and lack of access to healthcare.”"	Health and safety	9.0	en	G01349260
+"""The denial of marriage rights to same-sex couples has significant negative health consequences, including higher rates of depression and anxiety.”"	Health and safety	9.0	en	G01349260
+"""LGBTQ+ immigrants face higher rates of violence and discrimination, which can have a serious impact on their mental health and well-being.”"	Health and safety	9.0	en	G01349260
+"""Immigrants who are denied access to Medicaid and other healthcare programs are more likely to delay or forgo necessary medical care, putting their health at risk.”"	Health and safety	9.0	en	G01349260
+"""The lack of legal protections for same-sex couples can result in discrimination in healthcare settings, leading to inadequate care and negative health outcomes.”"	Health and safety	9.0	en	G01349260
+"""Research consistently shows that marriage has significant benefits for same-sex couples, including increased financial stability, better mental and physical health, and improved quality of life."""	Quality of Life	10.0	en	G01349260
+"""Immigrants are often confronted with challenges that can impact their mental health, including discrimination, isolation, and fear of deportation, but access to mental health services can help mitigate these challenges and improve their overall well-being.”"	Quality of Life	10.0	en	G01349260
+"""Allowing same-sex couples to marry not only provides them with legal protections and benefits but also promotes social inclusion and supports their overall well-being.”"	Quality of Life	10.0	en	G01349260
+"""Immigrants who are able to obtain legal status and citizenship often experience significant improvements in their quality of life, including increased access to healthcare and education, higher wages, and greater job opportunities.”"	Quality of Life	10.0	en	G01349260
+"""The threat of deportation and family separation can have a devastating impact on the mental health and well-being of undocumented immigrants and their families.”"	Quality of Life	10.0	en	G01349260
+"""Policies that prioritize family reunification can have significant positive impacts on the well-being of immigrants and their families, including improved mental health and greater economic stability.”"	Quality of Life	10.0	en	G01349260
+"""Denying same-sex couples the right to marry can have a significant negative impact on their emotional and psychological well-being, as well as their financial stability and access to critical legal protections and benefits.”"	Quality of Life	10.0	en	G01349260
+"""Immigrants who are able to obtain legal status and citizenship are more likely to invest in their communities, contribute to the economy, and support their families, leading to improvements in overall quality of life for everyone.”"	Quality of Life	10.0	en	G01349260
+"""Same-sex marriage provides important opportunities for same-sex couples to build families, create financial stability, and plan for their futures, ultimately contributing to their overall well-being.”"	Quality of Life	10.0	en	G01349260
+"""Policies that provide a pathway to citizenship for undocumented immigrants can lead to significant improvements in their quality of life, including greater access to education and job opportunities, increased wages, and better overall economic stability.”"	Quality of Life	10.0	en	G01349260
+"""Immigration has always been a part of America's cultural identity, from the waves of Irish and Italian immigrants in the early 20th century to today's immigrants from all over the world”"	Cultural identity	11.0	en	G01349260
+"""Same-sex marriage is a fundamental issue of human rights and cultural identity, as it allows individuals to express their love and commitment to each other without fear of discrimination”"	Cultural identity	11.0	en	G01349260
+"""The Trump administration's immigration policies are threatening the cultural identity and diversity of the United States by targeting specific ethnic and religious groups”"	Cultural identity	11.0	en	G01349260
+"""The fight for same-sex marriage is not just about legal recognition, but also about acceptance and validation of LGBTQ+ people and their cultural identity”"	Cultural identity	11.0	en	G01349260
+"""Immigrants contribute to the cultural identity of our country by bringing new foods, traditions, and customs that enrich our communities”"	Cultural identity	11.0	en	G01349260
+"""Opponents of same-sex marriage argue that it threatens traditional cultural values and undermines the sanctity of marriage”"	Cultural identity	11.0	en	G01349260
+"""Immigration is not just an economic issue, it's also a cultural issue that affects the values and traditions of our country”"	Cultural identity	11.0	en	G01349260
+"""The legalization of same-sex marriage is a triumph for equality and human rights, but also for the recognition and celebration of diverse cultural identities”"	Cultural identity	11.0	en	G01349260
+"""The current immigration system is broken and needs to be reformed in a way that respects our country's cultural identity while also providing a pathway to citizenship for undocumented immigrants”"	Cultural identity	11.0	en	G01349260
+"""The fight for same-sex marriage is not just a political issue, but a deeply personal one that reflects the cultural identity and experiences of LGBTQ+ individuals and their families”"	Cultural identity	11.0	en	G01349260
+"""Poll shows majority of Americans support a path to citizenship for undocumented immigrants”"	Public opinion	12.0	en	G01349260
+"""New survey finds growing support for same-sex marriage in Australia”"	Public opinion	12.0	en	G01349260
+"""Public opinion on immigration is shifting. Is the US ready for a more diverse future?”"	Public opinion	12.0	en	G01349260
+"""Survey: Nearly two-thirds of Americans support same-sex marriage”"	Public opinion	12.0	en	G01349260
+"""Public opinion on same-sex marriage: Has it shifted?”"	Public opinion	12.0	en	G01349260
+"""Poll: Americans overwhelmingly support a path to citizenship for Dreamers”"	Public opinion	12.0	en	G01349260
+"""Majority of Canadians support same-sex marriage, poll suggests”"	Public opinion	12.0	en	G01349260
+"""Public opinion shifts in favor of immigration, Pew survey shows”"	Public opinion	12.0	en	G01349260
+"""Poll: Americans' support for legal same-sex marriage reaches new high”"	Public opinion	12.0	en	G01349260
+"""Poll shows most Americans support legalizing undocumented immigrants in US”"	Public opinion	12.0	en	G01349260
+"""Democrats push for comprehensive immigration reform in Congress”"	Political	13.0	en	G01349260
+"""GOP lawmaker introduces bill to end birthright citizenship”"	Political	13.0	en	G01349260
+"""Supreme Court ruling opens door for same-sex marriage nationwide”"	Political	13.0	en	G01349260
+"""Republicans vow to protect traditional marriage despite court ruling”"	Political	13.0	en	G01349260
+"""Trump administration to expand travel ban to six additional countries”"	Political	13.0	en	G01349260
+"""Joe Biden promises to reverse Trump's immigration policies on day one”"	Political	13.0	en	G01349260
+"""Conservative groups lobby against same-sex marriage in Australia”"	Political	13.0	en	G01349260
+"""Democrats criticize ICE for separating families at the border”"	Political	13.0	en	G01349260
+"""Republicans push for stricter immigration policies to combat terrorism”"	Political	13.0	en	G01349260
+"""LGBTQ activists protest new anti-gay laws in Poland”"	Political	13.0	en	G01349260
+"""The Trump administration's policy of separating families at the border has damaged the United States' international reputation.”"	External regulation and reputation	14.0	en	G01349260
+"""The U.S. Supreme Court's decision to legalize same-sex marriage nationwide was celebrated as a victory for human rights around the world.”"	External regulation and reputation	14.0	en	G01349260
+"""President Biden's proposed immigration reforms could help restore the United States' standing in the world as a welcoming and inclusive nation.”"	External regulation and reputation	14.0	en	G01349260
+"""The U.S. government's hardline stance on immigration is causing concern among foreign investors and could harm the country's economic growth.”"	External regulation and reputation	14.0	en	G01349260
+"""The legalization of same-sex marriage in the United States was a turning point in the global fight for LGBTQ+ rights.”"	External regulation and reputation	14.0	en	G01349260
+"""The Biden administration's decision to allow more refugees into the United States is a step in the right direction for the country's reputation as a global leader in human rights.”"	External regulation and reputation	14.0	en	G01349260
+"""The Trump administration's travel ban on several predominantly Muslim countries damaged the United States' reputation as a beacon of freedom and democracy.”"	External regulation and reputation	14.0	en	G01349260
+"""The legalization of same-sex marriage has had a positive impact on the mental health and well-being of LGBTQ+ individuals in the United States.”"	External regulation and reputation	14.0	en	G01349260
+"""The United States' restrictive immigration policies are at odds with the country's history as a nation of immigrants."""	External regulation and reputation	14.0	en	G01349260
+"""The legalization of same-sex marriage in the United States has been an inspiration for LGBTQ+ activists around the world.”"	External regulation and reputation	14.0	en	G01349260
+Immigration has been a contentious issue	Other	15.0	en	G01349260
+The United States has a long history of immigration	Other	15.0	en	G01349260
+Places where it is not recognized or actively opposed	Other	15.0	en	G01349260
+Same-sex couples face many challenges	Other	15.0	en	G01349260
+a strong tradition of supporting refugees and immigrants.	Other	15.0	en	G01349260
+there are still places where same-sex relationships are stigmatized	Other	15.0	en	G01349260
+The UK has experienced a wave of immigration in recent years	Other	15.0	en	G01349260
+from Eastern Europe coming to work and study in the country	Other	15.0	en	G01349260
+Immigration is often driven by a combination of factors	Other	15.0	en	G01349260
+some agencies refusing to work with them	Other	15.0	en	G01349260
+"""Immigrants contribute to the economy by creating businesses and jobs.”"	Economic	1	en	G01351583
+"""The cost of deporting all undocumented immigrants in the US would be over $125 billion.”"	Economic	1	en	G01351583
+"""Immigrants pay more in taxes than they receive in benefits."""	Economic	1	en	G01351583
+"""The lack of affordable housing is a major challenge for immigrants in urban areas.”"	Capacity and Resources	2	en	G01353043
+"""The US economy would lose $1.6 trillion over the next 10 years if DACA recipients were deported.”"	Economic	1	en	G01351583
+"""Same-sex marriage legalization leads to an increase in tourism revenue.”"	Economic	1	en	G01351583
+"""Denying same-sex couples the right to marry has a negative economic impact on businesses.”"	Economic	1	en	G01351583
+"""The legalization of same-sex marriage can result in increased sales for wedding-related businesses.”"	Economic	1	en	G01351583
+"""The cost of denying same-sex couples the right to marry includes legal fees and lost revenue from tourism and businesses.”"	Economic	1	en	G01351583
+"""LGBTQ immigrants face significant challenges in accessing healthcare due to their status.”"	Health and safety	9	en	G01353043
+"""The immigration system is currently overwhelmed, leading to delays in processing and backlogs in immigration courts.”"	Capacity and Resources	2	en	G01353043
+"""The cost of detaining immigrants in the US is over $2 billion annually.”"	Economic	1	en	G01351583
+"""The lack of legal representation for immigrants in deportation proceedings can result in unjust deportations.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""The availability of affordable childcare is crucial for immigrant families.”"	Capacity and Resources	2	en	G01351583
+"""The economic benefits of immigration are spread across different sectors, including agriculture, hospitality, and technology.”"	Economic	1	en	G01351583
+"""The capacity of the US immigration system to process asylum seekers is strained, leading to long wait times and backlogs.”"	Capacity and Resources	2	en	G01351583
+"""The benefits of legalizing undocumented immigrants include increased tax revenue and economic growth.”"	Economic	1	en	G01353043
+"""Immigrants are essential to the US healthcare system, with over 28% of healthcare workers being foreign-born.”"	Health and safety	9	en	G01353043
+"""The current system of family-based immigration favors those with family ties, rather than prioritizing economic needs.”"	Fairness and Equality	4	en	G01351583
+"""Immigrants contribute to the diversity and cultural richness of society, which has economic and social benefits.”"	Morality	3	en	G01351583
+"""All individuals should have the same opportunity to live and work in the United States, regardless of their country of origin.”"	Fairness and Equality	4	en	G01351583
+"""The denial of marriage equality is a violation of the fundamental rights of LGBTQ individuals, who should have the same legal protections as everyone else.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Immigrants contribute to our economy, our culture, and our communities, and we must ensure that they are treated fairly and with respect.”"	Fairness and Equality	4	en	G01351583
+"""We must work to eliminate barriers to immigration and ensure that everyone has access to the same opportunities, regardless of their background.”"	Fairness and Equality	4	en	G01351583
+"""Same-sex couples deserve the same legal recognition and protections as opposite-sex couples, and we must work to ensure that they have access to these rights.”"	Morality	3	en	G01351583
+"""We cannot allow discrimination against immigrants or LGBTQ individuals, and we must work to create a more just and equitable society for all.”"	Fairness and Equality	4	en	G01351583
+"""As a Christian, I believe that all people are made in the image of God and deserve to be treated with dignity and respect, regardless of their country of origin.”"	Morality	3	en	G01351583
+"""It is not fair to deny individuals the ability to live and work in the United States simply because of where they were born.”"	Morality	3	en	G01351583
+"""Religious freedom is a fundamental human right, and we must ensure that our immigration policies do not discriminate against individuals on the basis of their faith.”"	Morality	3	en	G01351583
+"""The Bible calls on us to love our neighbors as ourselves, and this includes those who have come to our country seeking refuge.”"	Morality	3	en	G01351583
+"""We must ensure that all individuals have access to affordable healthcare, education, and housing, regardless of their race, ethnicity, or sexual orientation.”"	Fairness and Equality	4	en	G01351583
+"""It is not only a moral imperative, but a biblical mandate to care for the stranger, the foreigner, and the immigrant in our midst.”"	Morality	3	en	G01351583
+"""As people of faith, we cannot turn a blind eye to the suffering of immigrants, who are often fleeing violence and persecution in their home countries.”"	Morality	3	en	G01351583
+"""We must work to eliminate discrimination in all its forms and ensure that every individual is treated with dignity and respect.”"	Fairness and Equality	4	en	G01351583
+"""We must remember that every person is deserving of respect and dignity, regardless of their immigration status.”"	Fairness and Equality	4	en	G01351583
+"""As Christians, we must stand with our immigrant brothers and sisters and advocate for just and compassionate immigration policies.”"	Morality	3	en	G01351583
+"""The way we treat immigrants reflects our values as a society, and we must ensure that we are living up to our moral obligations to protect the vulnerable.”"	Morality	3	en	G01351583
+"""We cannot forget that many of our own ancestors were once immigrants themselves, and we have a duty to welcome those who are following in their footsteps.”"	Morality	3	en	G01351583
+"""As people of faith, we must recognize the inherent dignity of every human being, regardless of their race, nationality, or sexual orientation.”"	Morality	3	en	G01351583
+"""Immigration law is one of the most complex areas of American law and policy, and its complexity and dynamism have only increased in recent years.”"	Policy prescription and evaluation	6	en	G01353043
+"""The legalization of same-sex marriage was not only a legal victory, but a cultural and social one as well.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""The constitutionality of immigration policies has been the subject of much debate and litigation in recent years, particularly in the context of executive orders.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""The Supreme Court's decision in Obergefell v. Hodges marked a major milestone in the struggle for LGBTQ+ rights and the recognition of same-sex marriage as a fundamental right.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Immigration policy should strike a balance between maintaining national security and respecting the rights and dignity of immigrants and refugees.”"	Policy prescription and evaluation	6	en	G01351583
+"""The legal framework surrounding immigration in the United States is a patchwork of federal, state, and local laws and regulations that often conflict with one another.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""The legalization of same-sex marriage has profound implications for the recognition and protection of LGBTQ+ rights, as well as for the institution of marriage itself.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""The constitutionality of immigration policies must be evaluated not only in terms of their impact on individuals and communities, but also in terms of their conformity with international human rights norms and standards.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Policies aimed at addressing the challenges of immigration must recognize the complex and diverse needs of immigrant communities, and must be grounded in principles of fairness, equity, and justice.”"	Policy prescription and evaluation	6	en	G01351583
+"""The Supreme Court's jurisprudence on same-sex marriage has evolved significantly over the past few decades, reflecting a broader shift in societal attitudes towards LGBTQ+ rights and equality.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Immigration policies that are overly punitive and restrictive can undermine the rule of law and erode the legitimacy of government institutions.”"	Policy prescription and evaluation	6	en	G01351583
+"""The constitutionality of same-sex marriage bans was ultimately decided by the Supreme Court based on principles of equal protection and due process under the law.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Immigration policy is not just a matter of national security, but also a matter of economic and social policy, as immigrants play a vital role in many sectors of the U.S. economy.”"	Policy prescription and evaluation	6	en	G01351583
+"""The legalization of same-sex marriage has been a crucial step in the fight for LGBTQ+ rights, but there is still much work to be done to ensure full equality and protection under the law.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""The legal and policy frameworks surrounding immigration detention and deportation are often marked by opacity, arbitrariness, and lack of due process.”"	Policy prescription and evaluation	6	en	G01351583
+"""The constitutionality of same-sex marriage bans was ultimately decided by the Supreme Court based on principles of equal protection and due process under the law.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Immigration policy should be grounded in evidence-based research and analysis, rather than political rhetoric and fear-mongering.”"	Policy prescription and evaluation	6	en	G01351583
+"""The legalization of same-sex marriage has had a transformative effect on the lives of LGBTQ+ couples and families, but there is still much work to be done to address discrimination and stigma.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+"""Policies aimed at addressing the challenges of immigration must be designed with the participation and input of immigrant communities and their advocates, to ensure that they are responsive to their needs and priorities.”"	Policy prescription and evaluation	6	en	G01351583
+"""The constitutionality of immigration policies and executive orders has been the subject of intense scrutiny and litigation, reflecting deep divisions in American society over issues of immigration and national identity.”"	"Legality, constitutionality and jurisprudence"	5	en	G01351583
+The criminalization of immigration has resulted in a system that punishes those seeking refuge and threatens the safety of our communities.	Crime and Punishment	7	en	G01351583
+"The enforcement of strict immigration laws has led to an increase in detention centers and deportations, which have devastating consequences for families and individuals."	Security and Defense	8	en	G01353043
+The fight for marriage equality was a crucial step in protecting the basic human rights of same-sex couples and ensuring their safety and security.	Security and Defense	8	en	G01351583
+The discriminatory laws against same-sex marriage have perpetuated a culture of intolerance and violence against the LGBTQ+ community.	Crime and Punishment	7	en	G01351583
+"The border wall may have been sold as a way to protect our nation's security, but in reality, it only exacerbates the humanitarian crisis at the border."	Security and Defense	8	en	G01351583
+"The criminalization of same-sex relationships has had a profound impact on the mental health and well-being of LGBTQ+ individuals, leading to higher rates of depression and suicide."	Security and Defense	8	en	G01353043
+The lack of comprehensive immigration reform has left millions of undocumented immigrants vulnerable to exploitation and abuse by employers and landlords.	Security and Defense	8	en	G01351583
+"The implementation of discriminatory policies against same-sex couples has resulted in the denial of basic rights such as healthcare, inheritance, and social security benefits."	Security and Defense	8	en	G01351583
+The militarization of the border has created a hostile environment that puts both immigrants and border residents at risk of violence and abuse.	Security and Defense	8	en	G01351583
+The lack of access to legal representation for immigrants in detention centers undermines the fundamental principles of due process and justice.	Crime and Punishment	7	en	G01351583
+The restrictions on same-sex marriage have perpetuated harmful stereotypes and stigmatization of the LGBTQ+ community.	Security and Defense	8	en	G01351583
+The rhetoric of fear and division surrounding immigration has led to a rise in hate crimes and discrimination against immigrants.	Crime and Punishment	7	en	G01351583
+The lack of protections for LGBTQ+ individuals in the workplace has created a culture of fear and discrimination that harms individuals and businesses alike.	Crime and Punishment	7	en	G01351583
+The criminalization of immigration has resulted in a system that prioritizes punishment over compassion and human dignity.	Crime and Punishment	7	en	G01351583
+The legal recognition of same-sex marriage has been a crucial step in promoting equality and ensuring the security of LGBTQ+ individuals and their families.	Security and Defense	8	en	G01351583
+"The rise of anti-immigrant sentiment and policies has fueled xenophobia and racism, leading to a dangerous and divisive political climate."	Security and Defense	8	en	G01351583
+"The criminalization of same-sex relationships has perpetuated harmful stereotypes and discrimination against LGBTQ+ individuals, leading to a toxic and dangerous environment."	Crime and Punishment	7	en	G01351583
+The harsh enforcement of immigration laws has resulted in the separation of families and the violation of basic human rights.	Crime and Punishment	7	en	G01351583
+"The legalization of same-sex marriage has been a critical step in protecting the rights of LGBTQ+ individuals and their families, promoting social stability and equality."	Crime and Punishment	7	en	G01353043
+"The restrictions on immigration have created a system that is rife with exploitation and abuse, putting vulnerable individuals at risk of harm and endangering our communities."	Security and Defense	8	en	G01351583
+"""Immigrants are often afraid to seek medical care due to concerns about their legal status.”"	Health and Safety	9	en	G01351583
+"""Without access to basic sanitation, refugees and migrants face increased health risks and disease outbreaks.”"	Health and Safety	9	en	G01351583
+"""Immigration enforcement activities have been shown to negatively impact the mental health of immigrant communities.”"	Health and Safety	9	en	G01351583
+"""Undocumented immigrants are more likely to experience workplace injuries due to unsafe working conditions.”"	Health and Safety	9	en	G01353043
+"""Lack of access to healthcare can be a significant barrier for LGBTQ immigrants seeking asylum in the United States.”"	Health and Safety	9	en	G01351583
+"""Same-sex marriage legalization has been shown to improve mental health outcomes for LGBTQ individuals.”"	Quality of Life	10	en	G01351583
+"""Immigrants contribute significantly to the U.S. economy, and their removal could lead to job losses and decreased economic growth.”"	Quality of Life	10	en	G01351583
+"""The fear of deportation and family separation can lead to significant emotional and psychological distress for immigrant families.”"	Quality of Life	10	en	G01351583
+"""Diversity in immigrant communities can bring unique perspectives and cultural enrichment to local communities.”"	Cultural Identity	11	en	G01351583
+"""The ability to marry and start families can have a profound impact on the quality of life for same-sex couples.”"	Quality of Life	10	en	G01351583
+"""Immigrants who are victims of domestic violence may be afraid to seek help from law enforcement due to fear of deportation.”"	Quality of Life	10	en	G01351583
+"""Overcrowded and unsanitary conditions in immigration detention facilities pose significant health risks for detainees.”"	Health and Safety	9	en	G01351583
+"""Lack of access to healthcare and mental health services can have long-term negative consequences for immigrant children.”"	Health and Safety	9	en	G01351583
+"""Immigrants who work in industries such as agriculture and construction may be exposed to dangerous chemicals and toxins.”"	Health and Safety	9	en	G01351583
+"""The uncertainty of immigration status can lead to increased stress and anxiety, which can negatively impact overall health and well-being.”"	Health and Safety	9	en	G01351583
+"""Marriage equality can provide same-sex couples with legal protections and access to important benefits such as health insurance and social security.”"	Health and Safety	9	en	G01351583
+"""Immigrants often bring unique skills and talents to the U.S. workforce, contributing to innovation and economic growth.”"	Quality of Life	10	en	G01351583
+"""Immigrants may face discrimination and prejudice, which can impact their ability to fully participate in their communities and access opportunities.”"	Quality of Life	10	en	G01351583
+"""The ability to live openly and authentically without fear of discrimination or violence is a fundamental human right for LGBTQ individuals.”"	Quality of Life	10	en	G01351583
+"""Immigrants who are able to obtain legal status may experience improved mental health outcomes, as they no longer have to live in constant fear of deportation.”"	Quality of Life	10	en	G01353043
+"""Immigrants bring with them their unique customs and traditions, enriching our nation's cultural fabric."""	Cultural Identity	11	en	G01351583
+"""Opponents of same-sex marriage argue that it goes against traditional family values and religious beliefs."""	Cultural Identity	11	en	G01351583
+"""The current immigration policy fails to recognize the importance of family reunification, a core value in many cultures."""	Cultural Identity	11	en	G01351583
+"""The ban on Muslim immigrants is not only discriminatory, but also undermines the religious freedoms that are at the heart of American values."""	Cultural Identity	11	en	G01351583
+"""Many immigrant communities have a deep respect for education and value it as a means to success."""	Cultural Identity	11	en	G01351583
+"""In some cultures, marriage is seen as a union not just between two individuals, but between two families."""	Cultural Identity	11	en	G01351583
+"""The DACA program is vital to the cultural identity of many young immigrants who have grown up in the United States."""	Cultural Identity	11	en	G01351583
+"""Immigrants have long contributed to the diversity and richness of American cuisine, from Italian pizza to Mexican tacos."""	Cultural Identity	11	en	G01351583
+"""Many immigrants come to the United States seeking religious freedom and the ability to practice their faith without fear of persecution."""	Cultural Identity	11	en	G01351583
+"""The Trump administration's family separation policy goes against the values of compassion and family unity that are central to many cultures."""	Cultural Identity	11	en	G01351583
+"""A recent poll shows that a majority of Americans support a path to citizenship for undocumented immigrants."""	Public opinion	12	en	G01351583
+"""Public opinion on same-sex marriage has shifted dramatically in recent years, with more and more Americans supporting it."""	Public opinion	12	en	G01351583
+"""Many politicians are hesitant to support immigration reform for fear of alienating their base, despite widespread public support for such measures."""	Public opinion	12	en	G01351583
+"""Public opinion on immigration is often divided along party lines, with Republicans and Democrats holding vastly different views."""	Public opinion	12	en	G01351583
+"""According to a recent survey, younger generations are more likely to support immigration than older ones."""	Public opinion	12	en	G01351583
+"""Public opinion on same-sex marriage varies widely across different regions of the United States."""	Public opinion	12	en	G01351583
+"""The immigration debate is often dominated by extreme views, but most Americans fall somewhere in the middle."""	Public opinion	12	en	G01351583
+"""Polling shows that a majority of Americans believe that immigrants strengthen our country and contribute to our economy."""	Public opinion	12	en	G01351583
+"""Public opinion on immigration is often influenced by media coverage and political rhetoric."""	Public opinion	12	en	G01351583
+"""Demographic shifts in the United States are changing public opinion on immigration, as more Americans have personal connections to immigrants."""	Public opinion	12	en	G01351583
+Politicians on both sides of the aisle have used immigration as a wedge issue to rally their base.	Political	13	en	G01351583
+Same-sex marriage has become a divisive topic among Republican and Democratic lawmakers.	Political	13	en	G01351583
+Lobbyists for the immigration industry have donated millions of dollars to political campaigns.	Political	13	en	G01351583
+The 2020 election saw immigration emerge as a key issue for voters.	Political	13	en	G01351583
+Same-sex marriage has been used by politicians as a litmus test for social conservatism.	Political	13	en	G01351583
+The Trump administration's immigration policies were a central part of its platform.	Political	13	en	G01351583
+Some lawmakers argue that same-sex marriage should be left up to the states to decide.	Political	13	en	G01351583
+Immigrants have been a frequent target of political scapegoating.	Political	13	en	G01351583
+Advocates for immigration reform have been pushing for comprehensive legislation for years.	Political	13	en	G01351583
+Same-sex marriage has evolved from a fringe issue to a mainstream one in just a few short years.	Political	13	en	G01351583
+The United States' reputation as a land of opportunity for immigrants has taken a hit in recent years.	External Regulation and Reputation	14	en	G01353043
+"Many other countries have already legalized same-sex marriage, putting the United States behind the curve."	External Regulation and Reputation	14	en	G01351583
+Immigration policy is often viewed as a reflection of a country's values and principles.	External Regulation and Reputation	14	en	G01351583
+The United States' restrictive immigration policies have drawn criticism from around the world.	External Regulation and Reputation	14	en	G01351583
+Same-sex marriage has become a human rights issue in the eyes of many international organizations.	External Regulation and Reputation	14	en	G01351583
+The Trump administration's harsh rhetoric on immigration strained relations with many foreign leaders.	External Regulation and Reputation	14	en	G01351583
+Other countries' policies on same-sex marriage can serve as a model for the United States.	External Regulation and Reputation	14	en	G01351583
+The United States' immigration policies can have implications for global economic and political stability.	External Regulation and Reputation	14	en	G01351583
+Same-sex marriage is viewed as a measure of a country's progress on LGBTQ rights.	External Regulation and Reputation	14	en	G01351583
+Many foreign nationals who come to the United States to work or study are impacted by immigration policy.	External Regulation and Reputation	14	en	G01351583
+The topic of same-sex marriage continues to be a subject of debate and discussion.	Other	15	en	G01353043
+"The ability to immigrate or marry is often impacted by factors such as nationality, income, and education."	Other	15	en	G01351583
+The process of obtaining a visa or marriage license can be complex and time-consuming.	Other	15	en	G01351583
+The decision to immigrate or marry is a personal one that requires careful consideration.	Other	15	en	G01351583
+He struggled with the language barrier when he first immigrated to the United States.	Other	15	en	G01351583
+She applied for immigration to Australia and was granted a visa within a few months.	Other	15	en	G01351583
+Her family's immigration journey was fraught with danger and uncertainty.	Other	15	en	G01351583
+His parents immigrated to Canada from China in the 1980s.	Other	15	en	G01351583
+"The scent of freshly-baked cookies filled the kitchen, making her mouth water."	Other	15	en	G01351583
+"The sun slowly rose over the horizon, painting the sky with shades of pink and orange."	Other 	15	en	G01351583
+"He picked up his guitar and began to strum a familiar tune, lost in thought."	Other	15	en	G01351583

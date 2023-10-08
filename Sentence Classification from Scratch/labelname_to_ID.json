@@ -1,0 +1,18 @@
+{
+    "0.0" : "None",
+    "1.0" : "Economic",
+    "2.0" : "Capacity and Resources",
+    "3.0" : "Morality",
+    "4.0" : "Fairness and Equality",
+    "5.0" : "Legality, Constitutionality, Jurisdiction",
+    "6.0" : "Policy Prescription and Evaluation",
+    "7.0" : "Crime and Punishment",
+    "8.0" : "Security and Defense",
+    "9.0" : "Health and Safety",
+    "10.0" : "Quality of Life",
+    "11.0" : "Cultural Identity",
+    "12.0" : "Public Sentiment",
+    "13.0" : "Political",
+    "14.0" : "External Regulation and Reputation",
+    "15.0" : "Other"
+  }
