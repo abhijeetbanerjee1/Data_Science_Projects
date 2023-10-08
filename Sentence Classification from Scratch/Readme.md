@@ -1,6 +1,6 @@
 ### NLP Project
 
-### This Readme is just an explanation of what file contains what...
+**This Readme is just an explanation of what file contains what...**
 * "Annotater_1.tsv" contains the data annotated by Annotator number 1.
 * "Annotater_2.tsv" contains the data annotated by Annotator number 2.
 * "aggregated_data.tsv" contains the labeled data after the two annotators discussed their disagreements.
