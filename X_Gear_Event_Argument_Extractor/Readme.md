@@ -1,3 +1,5 @@
 ### X-Gear: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
 
 This is my attempt to re-create the results of the ACL-2022 paper [Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction] (https://arxiv.org/abs/2203.08308).
+
+This project also explores the Robustness and Multilinguality of the model.
