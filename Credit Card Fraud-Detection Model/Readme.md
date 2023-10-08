@@ -10,5 +10,6 @@ instance of Voting Classifier.
 * Multi-Layer Perceptron (MLP) as an instance of ANN that consists of two hidden layers
 of size (100, 50), which uses Cross Entropy Loss and ReLu activation functions.
 
+## Conclusion
 Through this study, we were able to explore different Sampling methods for handling unbalanced datasets, use Ensemble modeling for reducing generalization error of classification models, and understand how evaluation metrics like Precision, Recall, and AUC of recall vs precision, tell us how a model performs on an unbalanced distribution.
 Some situations in the actual world cannot be avoided for a variety of reasons, much like class inequality. There are still additional machine learning techniques that may be used to provide predictions that are more accurate and realistic, such as cost-sensitive learning, various learning algorithms, anomaly detection, and the use of measures like false positives, true positives, F1-score, etc. Imposing an effective approach for significantly identifying fraudulent transactions without blaming customers is critical to resolving this slowly prevalent global challenge.
