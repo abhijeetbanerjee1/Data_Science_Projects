@@ -10,3 +10,10 @@ Emotion Analyzer is a text analysis tool designed to analyze the sentiment and e
 - Sentiment analysis: Utilizes TextBlob to extract sentiment polarity and subjectivity from the text data.
 - Emotion classification: Provides insights into the emotional tone of the text by analyzing sentiment polarity and subjectivity.
 
+## Requirements
+- Python 3.8
+- TextBlob
+- NLTK (Natural Language Toolkit)
+
+### Note:
+Please note that the datasets used for testing and the corresponding outputs are not included in this repository. These datasets contain sensitive information related to a research study and are not suitable for public distribution. However, you can use your own text data to analyze using the Emotion Analyzer tool provided in this repository.
